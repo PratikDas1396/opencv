@@ -1,3 +1,5 @@
 .vscode
-SnapChat Filter
 undefine
+facealigner.py
+helpers.py
+snap_filter_with_rotation.py
